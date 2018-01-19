@@ -346,8 +346,8 @@
 
 /* loading7 */
 .loading7 {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   background-color: #fff;
   -webkit-animation: rotateplane 1.2s infinite ease-in-out;
   animation: rotateplane 1.2s infinite ease-in-out;
